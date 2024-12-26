@@ -1,0 +1,15 @@
+# Travel Blog Portfolio
+
+## Description
+This is a personal portfolio website to showcase a travel blog. It highlights various travel destinations, with a focus on Paris. The website is fully responsive and optimized for mobile, tablet, and desktop views.
+
+## Features
+- **Responsive design:** Adapts to different screen sizes (mobile, tablet, desktop).
+- **Interactive navigation:** Easy-to-use navigation links (Home, About, Contact).
+- **Hero section:** Features a captivating image of Paris with an informative description.
+
+## Technologies Used
+- **HTML5:** For the structure and content.
+- **CSS3:** For styling, including responsive design with media queries.
+- **GitHub Pages:** For hosting the website online.
+
